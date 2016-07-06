@@ -12,3 +12,5 @@ Robot que grava amb una tarja SD els suggeriments dels usuaris del Citialb  i qu
 Parla en 3 idiomes, es mou, té un sensor de presència, un display LCD, ulls amb LEDS RGB motoritzats i botons capacitius.
 
 Està construït amb un Arduino Mega i programat amb Snap4Arduino. S'ha ampliat el Firmata per poder incorporar tots aquests elemenets al Snap4Arduino.
+
+!(/Citi7-21.jpg "Hello, I'm Citi7-21")
