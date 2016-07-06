@@ -13,4 +13,4 @@ Parla en 3 idiomes, es mou, té un sensor de presència, un display LCD, ulls am
 
 Està construït amb un Arduino Mega i programat amb Snap4Arduino. S'ha ampliat el Firmata per poder incorporar tots aquests elements al Snap4Arduino.
 
-![Hello, I'm Citi7-21] (https://github.com/jogaye/Citi7-21/blob/master/Citi7-21.jpg =400px)
+![Hello, I'm Citi7-21] (https://github.com/jogaye/Citi7-21/blob/master/Citi7-21.jpg =400x)
